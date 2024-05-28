@@ -1,1 +1,1 @@
-# manager
+# https://pixelgameweb.github.io/manager/
